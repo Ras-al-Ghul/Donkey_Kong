@@ -1,8 +1,8 @@
-#Donkey Kong
+# Donkey Kong
 
 
 
-###To play the game
+### To play the game
 
 - `sudo apt-get install python-Xlib`
 - `python game.py`
@@ -12,7 +12,7 @@ The file `pyxhook.py` is the `Copyright (C) of Tim Alexander` <dragonfyre13@gmai
 It is licensed under GNU's GPL.
 To use `pyxhook`, Python's `Xlib` module needs to be installed if it is not already.
 
-###Notes
+### Notes
 
 - OOP concepts have been used extensively.
 - One can increase/decrease the `sleep` time in `game.py` if the terminal screen flickers.
